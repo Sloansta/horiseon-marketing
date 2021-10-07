@@ -1,4 +1,4 @@
-# horiseon-marketing!
+# Horiseon Marketing
 ![Screenshot](https://github.com/Sloansta/horiseon-marketing/blob/main/assets/images/horiseon-marketing-landing.png?raw=true)
 
 Refractered Horiseon Marketing landing page!
